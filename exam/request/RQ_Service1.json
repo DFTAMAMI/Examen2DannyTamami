@@ -1,0 +1,19 @@
+{
+  "ruc": "1234567890001",
+  "razonSocial": "Ejemplo",
+  "cuentaPrincipal": "ejemplo",
+  "empleados": [
+    {
+      "cedulaIdentidad": "1234567890",
+      "apellidos": "Perez Perez",
+      "nombres": "Dan Jukes",
+      "numeroCuenta": "2234567890"
+    },
+    {
+      "cedulaIdentidad": "3456789012",
+      "apellidos": "Alimana Alimana",
+      "nombres": "Jose Maria",
+      "numeroCuenta": "4323567689"
+    }
+  ]
+}
